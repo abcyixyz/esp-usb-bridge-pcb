@@ -1,5 +1,9 @@
 # ESP USB Bridge Pcb
 
+[Flash And Test](https://yyii.site/2022/05/02/ESP-USB-Bridge/)
+
+[Jtag Debug](https://yyii.site/2022/05/08/ESP-USB-Bridge-JTAG-Debug/)
+
 ## Some  Images
 
 ![2d-front.png](images/2d-front.png)
